@@ -14,24 +14,28 @@ role: PhD Student Researcher
 
 # Organizations/Affiliations
 organizations:
+#- name: Paul G. Allen School of Computer Science & Engineering
+#  url: "https://www.cs.washington.edu/"
+- name: UbiComp Lab
+  url: "https://ubicomplab.cs.washington.edu/"
 - name: University of Washington
   url: "https://www.washington.edu/"
-- name: Paul G. Allen School of Computer Science & Engineering
-  url: "https://www.cs.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include health sensing, machine learning and healthcare access.
 
 interests:
+- Mobile Health Sensing
+- Synthetic Biology
 - Machine Learning
-- Health Sensing
 - Healthcare Access
+- Youth Education
 
 education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: University of Washington
-    year: current
+    year: 2024 (expected)
   - course: BS in Biomedical / Electrical Engineering
     institution: University of Southern California
     year: 2014
@@ -41,18 +45,22 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jasonhof
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jasonhoffman4522/
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +77,8 @@ user_groups:
 - Visitors
 ---
 
-Researching creative solutions for increasing access to healthcare at the intersection of computer science and human health.
+Researching creative solutions for increasing access to healthcare at the intersection of computer science and biology.
 
 Advised by Dr. Shwetak Patel in the Ubiquitous Computing Lab in the Paul G. Allen School of Computer Science and Engineering.
+
+Passionate about youth education and empowerment.  Please reach out if you share these interests!
