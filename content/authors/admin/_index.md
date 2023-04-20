@@ -48,6 +48,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jasonhof
+- icon: ai-google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=oIh3U2YAAAAJ
+- icon: fa-goodreads-g
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/9556432-jason
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jasonhoffman4522/
